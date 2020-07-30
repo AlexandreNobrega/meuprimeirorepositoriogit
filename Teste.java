@@ -16,5 +16,8 @@ public class Teste {
 
         System.out.println("git diff");
 
+        System.out.println("git diff");
+
+
     }
 }

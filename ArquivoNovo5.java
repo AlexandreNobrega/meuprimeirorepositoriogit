@@ -5,6 +5,8 @@ Class ArquivoNovo5 {
         System.out.println("ARQUIVO NOVO 5");
         System.out.println("ARQUIVO NOVO 5");
         System.out.println("ARQUIVO NOVO 5");
+        System.out.println("ARQUIVO NOVO 5");
+
 
     }
 }
